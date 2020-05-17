@@ -1,1 +1,1 @@
-A fantasy baseball draft app helper. Uses React, Typescript and Node.
+An app to help use personalized rankings during a fantasy baseball draft. Uses React, Typescript and Node.
